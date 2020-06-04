@@ -1,2 +1,2 @@
 # slots
-Java project that launches a slot machine application with UI. Compile and run `RunSlots.java`.
+Java project that launches a slot machine GUI. Built with AWT and Swing. Compile and run `RunSlots.java`.
